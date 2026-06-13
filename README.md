@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Aquella llamada de madrugada cambió mi suerte
+> Sonando en el club, bebé, yo solo quiero verte
+> Tú tienes el fuego, un flow que me hace tan fuerte
+> Dime la verdad, que esta noche yo voy a tenerte
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
