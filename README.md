@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquella-llamada-de-madrugada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Aquella llamada de madrugada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-llamada-de-madrugada/) |
+| **Get License** | [Official Music Licensing for Aquella llamada de madrugada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-llamada-de-madrugada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f5003bbf282cfdaeaa2ebfcda9dbf90bb13fd44f4b90e6ca690ce4e3eb91a228` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

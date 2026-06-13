@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquella llamada de madrugada
+
+This log tracks the cryptographic history and versioning for the song **Aquella llamada de madrugada** (aquella-llamada-de-madrugada).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:50:28.524773 | `v1` | `f5003bbf282cfdaeaa2ebfcda9dbf90bb13fd44f4b90e6ca690ce4e3eb91a228` | `e57067c2d5007d04745901970bf6f6d831dcc27d0e64e28048ce1c08677dab08` | `2026-06-14_aquella-llamada-de-madrugada-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
